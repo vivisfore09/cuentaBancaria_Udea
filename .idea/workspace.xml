@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa25ae29-d6a6-4fe6-8048-959bb28adbb9" name="Changes" comment="Version 1.1 Inicial">
-      <change afterPath="$PROJECT_DIR$/src/Ejemplo_Rama.java" afterDir="false" />
+    <list default="true" id="aa25ae29-d6a6-4fe6-8048-959bb28adbb9" name="Changes" comment="Version 2 Rama Viviana">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +15,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/viviana" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
